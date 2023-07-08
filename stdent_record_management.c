@@ -2,7 +2,7 @@
 #include <stdlib.h>
 
 #define MAX_STUDENTS 100
-#define MAX_NAME_LENGTH 50
+#define MAX_NAME_LENGTH 80
 
 typedef struct {
     int rollNumber;
